@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GithubApp</string>
+    <string name="txt_open_issue">Abrir issue</string>
+    <string name="text_title">Título</string>
+    <string name="text_loading">Aguarde...</string>
+</resources>
